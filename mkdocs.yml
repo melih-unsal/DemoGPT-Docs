@@ -5,5 +5,3 @@ nav:
     - Model: model.md
     - Prompts: prompts.md
     - App: app.md
-
-theme: readthedocs
